@@ -3606,7 +3606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm"
+		(property "Footprint" ""
 			(at 171.1452 116.84 0)
 			(effects
 				(font
@@ -3744,7 +3744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_Receptacle_GCT_USB1046"
+		(property "Footprint" ""
 			(at 224.79 88.9 0)
 			(effects
 				(font
@@ -3823,7 +3823,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal"
+		(property "Footprint" ""
 			(at 234.95 65.786 0)
 			(effects
 				(font
@@ -3896,7 +3896,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" ""
 			(at 116.5352 115.57 0)
 			(effects
 				(font
@@ -4165,7 +4165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal"
+		(property "Footprint" ""
 			(at 54.61 77.216 0)
 			(effects
 				(font
@@ -4236,7 +4236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_10.4x10.4_H4.8"
+		(property "Footprint" ""
 			(at 127 95.25 0)
 			(effects
 				(font
@@ -4371,7 +4371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" ""
 			(at 64.77 134.62 0)
 			(effects
 				(font
@@ -4501,7 +4501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical"
+		(property "Footprint" ""
 			(at 153.67 114.3 0)
 			(effects
 				(font
@@ -4574,7 +4574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" ""
 			(at 143.002 120.65 90)
 			(effects
 				(font
@@ -4644,7 +4644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" ""
 			(at 160.9852 124.46 0)
 			(effects
 				(font
@@ -4714,7 +4714,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P15.24mm_Horizontal"
+		(property "Footprint" ""
 			(at 92.71 135.89 0)
 			(effects
 				(font
@@ -4802,7 +4802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm"
+		(property "Footprint" ""
 			(at 100.0252 118.11 0)
 			(effects
 				(font
@@ -4938,7 +4938,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-15_P15.24mm_Horizontal"
+		(property "Footprint" ""
 			(at 92.71 95.25 0)
 			(effects
 				(font
