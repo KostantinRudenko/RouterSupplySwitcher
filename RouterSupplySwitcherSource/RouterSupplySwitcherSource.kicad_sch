@@ -2746,6 +2746,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Output\n"
+		(exclude_from_sim no)
+		(at 218.948 111.252 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f1986c26-f21e-49e8-8ed5-a401fabbea62")
+	)
+	(text "Input\n"
+		(exclude_from_sim no)
+		(at 72.898 173.228 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fa9dded3-7740-42e8-a3d6-f72a670a3586")
+	)
 	(junction
 		(at 170.18 95.25)
 		(diameter 0)
