@@ -3597,7 +3597,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100uF"
 			(at 173.99 114.2999 0)
 			(effects
 				(font
@@ -3666,7 +3666,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky_Dual_CommonAnode_AKK_Split"
+		(property "Value" "SS34"
 			(at 153.924 91.44 0)
 			(effects
 				(font
@@ -3887,7 +3887,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 111.76 120.6499 0)
 			(effects
 				(font
@@ -4228,7 +4228,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "47uH"
 			(at 127 92.71 90)
 			(effects
 				(font
@@ -4493,7 +4493,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Potentiometer"
+		(property "Value" "10kR"
 			(at 152.4 116.332 90)
 			(effects
 				(font
@@ -4565,7 +4565,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330R"
 			(at 147.32 121.9199 0)
 			(effects
 				(font
@@ -4635,7 +4635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 163.83 121.9199 0)
 			(effects
 				(font
@@ -4793,7 +4793,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "220uF"
 			(at 102.87 115.5699 0)
 			(effects
 				(font

@@ -118,7 +118,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "220uF"
 			(at 1 3.25 90)
 			(layer "F.Fab")
 			(uuid "1a785542-4f5c-4c03-86a9-e49011d899f0")
@@ -1927,7 +1927,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100uF"
 			(at 1 3.25 90)
 			(layer "F.Fab")
 			(uuid "0193a177-805d-4da0-a021-3eef34838260")
@@ -3040,7 +3040,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky_Dual_CommonAnode_AKK_Split"
+		(property "Value" "SS34"
 			(at 6.557 5.111 90)
 			(layer "F.Fab")
 			(uuid "9afb41b9-e758-4d14-aa6d-9ee288ae4a46")
@@ -3280,7 +3280,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "47uH"
 			(at 0 6.35 0)
 			(layer "F.Fab")
 			(uuid "a1d6d191-db0f-4043-a96f-e9b5e2619764")
@@ -3563,7 +3563,7 @@
 				)
 			)
 		)
-		(property "Value" "R_Potentiometer"
+		(property "Value" "10kR"
 			(at -2.54 3.59 90)
 			(layer "F.Fab")
 			(uuid "a99e6389-c6be-42cb-a709-9caffb9e9571")
@@ -3790,7 +3790,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 0 2.3 0)
 			(layer "F.Fab")
 			(uuid "ab26175b-92e1-41fa-a89e-a61844b22f92")
@@ -4312,7 +4312,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 0 2.3 90)
 			(layer "F.Fab")
 			(uuid "11d5ef13-b6a3-41bb-9af6-66598d0b1e14")
@@ -4946,7 +4946,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "330R"
 			(at 5.08 2.37 0)
 			(layer "F.Fab")
 			(uuid "8c57c6a8-3f88-43b0-b2bc-af908b0b6a5b")
