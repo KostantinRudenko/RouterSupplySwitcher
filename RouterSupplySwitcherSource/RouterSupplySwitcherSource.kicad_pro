@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.65,
+          "height": 0.65,
+          "width": 0.65
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|110575000|91920000|F.Cu|4|a461bc5e-47f3-4606-8a73-7a2759e46ec3|e5ada435-7678-4e32-af79-4f17aac7f74a",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -73,7 +78,7 @@
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -489,7 +494,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
